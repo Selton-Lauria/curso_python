@@ -1,1 +1,3 @@
-# curso_python
+### curso_python
+## Aluno:
+Selton Lira Lauria
